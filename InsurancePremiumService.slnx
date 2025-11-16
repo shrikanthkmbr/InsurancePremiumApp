@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="InsurancePremium.Model/InsurancePremium.Model.csproj" />
+  <Project Path="InsurancePremium.Repository/InsurancePremium.Repository.csproj" />
+  <Project Path="InsurancePremiumService/InsurancePremiumService.API.csproj" />
+</Solution>
